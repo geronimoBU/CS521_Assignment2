@@ -1,4 +1,4 @@
-#Simple Madlibs v2
+Simple Madlibs v2
 
 Items needed: 
 1) Folder labeled as 'resources' inside of the current working directory.
